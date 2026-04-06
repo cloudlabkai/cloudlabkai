@@ -126,7 +126,7 @@ A growing collection of practical projects exploring intelligent automation, pro
 
 <div align="left">
 
-- **Email:** [kharidhenry@gmail.com](mailto:kharidhenry@gmail.com)
+- **Email:** [khar.golson@gmail.com](mailto:khari.golson@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kdgolson](https://www.linkedin.com/in/kdgolson/)
 - **GitHub:** [github.com/cloudlabkai](https://github.com/cloudlabkai)
 
